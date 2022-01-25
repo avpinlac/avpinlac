@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avpinlac
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python, SSIS, ETL
+- 🌱 I’m currently learning Python, SSIS, ETL/ELT, PowerBI, Tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: avpiinlac@yahoo.com
 
